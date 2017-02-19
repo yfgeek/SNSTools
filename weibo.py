@@ -99,5 +99,5 @@ def read_csv(name):
 
 
 if __name__ == '__main__':
-    texts = fetch_weibo_friend("2260161101")
+    texts = fetch_weibo_friend("22601示例101")
     #write_csv(texts,'ll')
